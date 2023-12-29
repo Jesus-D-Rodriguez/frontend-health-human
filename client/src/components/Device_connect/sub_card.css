@@ -1,0 +1,54 @@
+* button{
+    border: none;
+}
+.sub_card{
+    position: absolute;
+    width: 148px;
+    height: 88px;
+    left: 32px;
+    top: 531px;
+
+    background: #FFFFFF;
+    box-shadow: 0px 4px 25px rgba(0, 0, 0, 0.08);
+    border-radius: 12px;
+}
+
+.in_sub{
+    position: absolute;
+    width: 118px;
+    height: 40px;
+    left: 8.24px;
+    top: 22px;
+    /* border: 1px solid black; */
+}
+
+
+#in_sub_head{
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 900;
+    font-size: 12px;
+    line-height: 14px;
+    margin: 0%;
+    padding: 0%;
+    margin-bottom: 4px;
+}
+#in_sub_text{
+    margin: 0%;
+    padding: 0%;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 10px;
+    line-height: 14px;
+}
+#display{
+    display: flex;
+   margin: auto;
+}
+
+.in_sub :nth-child(2){
+    text-align: justify;
+    margin-top: 1px;
+    margin-left: 10px;
+}

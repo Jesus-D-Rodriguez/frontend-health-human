@@ -1,0 +1,49 @@
+{
+    "device_data":[
+        {
+            "title":"pulso",
+            "Average":"72 bpm",
+            "detailed":{
+                "Mas alto":"101 bpm",
+                "Mas bajo" :"56 bpm",
+                "Promedio":"72 bpm"
+            }
+        },
+        {
+            "title":"glucosa",
+            "Average":"12 mg/dl",
+            "detailed":{
+               "Hydration":"65%",
+               "Alcohol":"150–200 mg/dL",
+                "Average":"12 mg/dl"
+            }
+        },
+        {
+            "title":"ejercicio",
+            "Average":"30 min",
+            "detailed":{
+                "CaloriesBurned":"300",
+                "Average":"7500",
+                "DistanceCovered":"7.5 km"
+            }
+        },
+        {
+            "title":"IMC",
+            "Average":"97",
+            "detailed":{
+                "Range":"92% - 97%",
+                "Average":"97"
+            }
+        },
+        {
+            "title":"Siesta",
+            "Average":"8 horas",
+            "detailed":{
+                "REM":"20% - 30%",
+                "Deep":"72 mins",
+                "Average":"8 hours"
+            }
+        }
+    ]
+}
+    
